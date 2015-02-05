@@ -1,0 +1,10 @@
+* San Juan County GIS Newsletters
+This repository contains an archive of email newsletters published by San Juan County GIS. These newsletters inform interested individuals of upcoming GIS User Group meetings, data updates, and new maps and apps.
+
+** Usage
+You may use our [[https://github.com/SJCGIS/email-templates][email templates]] or MailChimp's [[http://github.com/mailchimp/Email-Blueprints][Email Blueprints]] to write your own emails.
+
+** License
+San Juan County GIS emails are adapted from [[http://mailchimp.com][MailChimp's]] [[http://github.com/mailchimp/Email-Blueprints][Email Blueprints]].
+
+This work is licensed under a [[http://creativecommons.org/licenses/by-sa/3.0/][Creative Commons Attribution-ShareAlike 3.0 Unported License]]. 
